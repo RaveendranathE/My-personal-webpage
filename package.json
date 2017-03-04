@@ -1,0 +1,21 @@
+
+{
+    "name": "M07",
+    "version": "0.0.1",
+    "description": "simple guestbook app",
+    "main": "gbapp.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest",
+        "mailgun-js": "latest"
+    },
+    "author": "sushmitha madireddy",
+    "homepage": "https://bitbucket.org/professorcase/m07",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/professorcase/m07"
+    },
+    "license": "Apache-2.0"
+}
